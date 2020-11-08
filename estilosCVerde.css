@@ -1,0 +1,34 @@
+body {
+    color: #000;
+}
+
+#categorias-uno {
+    width: 100%;
+    height: auto; overflow: hidden;
+    border: 1px solid green;
+    margin-top: 10px;
+}
+
+.uno {
+    width: 1310px;
+    height: 150px;
+    border: 1px solid green;
+    margin-top: 10px;
+}
+.uno img {
+    width: 250px; 
+    height: 140px;
+    float: left;
+    margin-right: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.uno p {
+    text-align: justify;
+    font-size: 20px;
+    font-weight: 100;
+    margin-right: 20px;
+    margin-top: 40px;
+}
